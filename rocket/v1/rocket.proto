@@ -1,6 +1,6 @@
 syntax = "proto3"; 
 
-option go_package = "./rocket";
+option go_package = "./rocket/v1";
 
 package rocket;
 
